@@ -1,9 +1,9 @@
-# Workforce Insights: HR Analytics Dashboard
+<img width="755" height="423" alt="image" src="https://github.com/user-attachments/assets/aea68ee4-e009-48c4-9f57-462b3803e7c8" /># Workforce Insights: HR Analytics Dashboard
 
 ## 📊 Project Overview
 This repository contains a comprehensive **HR Analytics Dashboard** built in Power BI. The goal of this project was to transform raw organizational data into actionable insights regarding employee retention, demographics, and compensation structures. By analyzing these metrics, businesses can identify patterns that lead to attrition and improve overall employee satisfaction.
 
-![Uploading image.png…]()
+<img width="755" height="423" alt="HR Dashboard" src="https://github.com/user-attachments/assets/98ab72db-0920-4747-a236-c3ead278e78d" />
 
 
 ## 📈 Key Insights & KPIs
