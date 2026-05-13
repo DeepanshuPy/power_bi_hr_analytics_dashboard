@@ -3,6 +3,9 @@
 ## 📊 Project Overview
 This repository contains a comprehensive **HR Analytics Dashboard** built in Power BI. The goal of this project was to transform raw organizational data into actionable insights regarding employee retention, demographics, and compensation structures. By analyzing these metrics, businesses can identify patterns that lead to attrition and improve overall employee satisfaction.
 
+![Uploading image.png…]()
+
+
 ## 📈 Key Insights & KPIs
 The dashboard tracks several critical Human Resources metrics:
 * **Workforce Overview:** Total headcount of 1,417 employees with a breakdown of active vs. inactive staff.
