@@ -1,9 +1,9 @@
-# Workforce Insights: HR Analytics Dashboard
+# HR Analytics Dashboard
 
 ## 📊 Project Overview
 This repository contains a comprehensive **HR Analytics Dashboard** built in Power BI. The goal of this project was to transform raw organizational data into actionable insights regarding employee retention, demographics, and compensation structures. By analyzing these metrics, businesses can identify patterns that lead to attrition and improve overall employee satisfaction.
 
-<img width="755" height="423" alt="HR Dashboard" src="https://github.com/user-attachments/assets/98ab72db-0920-4747-a236-c3ead278e78d" />
+<img width="755" height="423" alt="HR Dashboard" src="https://github.com/user-attachments/assets/39e32dc3-771b-4536-844c-c75ee6b7bcde" />
 
 
 ## 📈 Key Insights & KPIs
@@ -18,4 +18,19 @@ The dashboard tracks several critical Human Resources metrics:
 * **Data Source:** CSV (HR Analytics Dataset)
 * **Tool:** Power BI Desktop
 * **Techniques:** * Data Cleaning & Transformation (Power Query)
-    * DAX (
+    * DAX (Data Analysis Expressions) for custom measures
+    * Interactive Data Visualization
+
+## 📂 Project Structure
+* `HR_Analytics_Dashboard.pbix`: The Power BI file containing the dashboard.
+* `HR_Analytics-4.csv`: The raw dataset used for the analysis.
+* `Screenshots/`: Folder containing images of the dashboard for quick preview.
+
+## 🚀 How to View
+1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+2. Download the `.pbix` file from this repository.
+3. Open the file to interact with the filters and explore the data.
+
+---
+**Author:** [Deepanshupy]  
+**Topic:** Data Analysis | HR Tech | Power BI
